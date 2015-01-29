@@ -1,0 +1,6 @@
+framework module Kocomojo {
+  umbrella header "Pods-KocomojoKit-KocomojoKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

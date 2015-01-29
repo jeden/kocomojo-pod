@@ -1,0 +1,14 @@
+PODS:
+  - KocomojoKit (0.1.0)
+
+DEPENDENCIES:
+  - KocomojoKit (from `../`)
+
+EXTERNAL SOURCES:
+  KocomojoKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  KocomojoKit: ecce6a39e5cdaf11f066d816de288ee38c927e6d
+
+COCOAPODS: 0.36.0.beta.2

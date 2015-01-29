@@ -1,0 +1,21 @@
+{
+  "name": "KocomojoKit",
+  "module_name": "Kocomojo",
+  "version": "0.1.0",
+  "summary": "Simple Kocomojo REST client",
+  "homepage": "https://github.com/jeden/KocomojoKit",
+  "license": "MIT",
+  "authors": {
+    "Antonio Bello": "jeden@elapsus.com"
+  },
+  "source": {
+    "git": "https://github.com/jeden/KocomojoKit.git",
+    "tag": "0.1.0"
+  },
+  "social_media_url": "https://twitter.com/ant_bello",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*.swift"
+}
